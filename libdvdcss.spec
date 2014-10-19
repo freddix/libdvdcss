@@ -1,7 +1,7 @@
 Summary:	Library to decrypt CSS-encoded DVD
 Name:		libdvdcss
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		Libraries
 Source0:	http://www.videolan.org/pub/videolan/libdvdcss/%{version}/%{name}-%{version}.tar.bz2
